@@ -1,7 +1,7 @@
 Issue Log:
 
-Issue Name: 3.1. Develop Backend 
+Issue Name: 4.1. Develop Emergency SOS Feature
 Assignees: David Lee (Developer)
-Labels: Backend Development 
+Labels:  Development, Emergency Features
 Projects: Development
-Milestones: Core App Development Completion
+Milestones: Emergency Features

@@ -1,7 +1,7 @@
 Issue Log:
 
-Issue Name:
-Assignees:
-Labels:
-Projects:
-Milestones:
+Issue Name:1.1. Project Kickoff Meeting 
+Assignees:John Smith (Project Manager), 
+Team Labels:Project Kickoff 
+Projects:Project Management 
+Milestones:Project Kick-off & Scope Definition

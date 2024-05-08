@@ -1,7 +1,7 @@
 Issue Log:
 
-Issue Name: 2.1. Develop User Personas & User Stories
-Assignees: Jane Doe (UI/UX Designer)
-Labels: User Personas, User Stories 
-Projects: Design
-Milestones: Project Kick-off & Scope Definition
+Issue Name: 3.1. Develop Backend 
+Assignees: David Lee (Developer)
+Labels: Backend Development 
+Projects: Development
+Milestones: Core App Development Completion

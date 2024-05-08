@@ -1,7 +1,7 @@
 Issue Log:
 
-Issue Name: 4.1. Develop Emergency SOS Feature
-Assignees: David Lee (Developer)
-Labels:  Development, Emergency Features
-Projects: Development
-Milestones: Emergency Features
+Issue Name: 5.1. User Acceptance Testing (UAT) Planning
+Assignees: John Smith (Project Manager), Michael Brown (QA Tester)
+Labels:  UAT Planning
+Projects: Testing
+Milestones: Core App Development Completion

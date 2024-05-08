@@ -1,7 +1,7 @@
 Issue Log:
 
-Issue Name:1.1. Project Kickoff Meeting 
-Assignees:John Smith (Project Manager), 
-Team Labels:Project Kickoff 
-Projects:Project Management 
-Milestones:Project Kick-off & Scope Definition
+Issue Name: 2.1. Develop User Personas & User Stories
+Assignees: Jane Doe (UI/UX Designer)
+Labels: User Personas, User Stories 
+Projects: Design
+Milestones: Project Kick-off & Scope Definition
